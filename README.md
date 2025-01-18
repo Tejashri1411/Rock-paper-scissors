@@ -1,4 +1,4 @@
-# Rock-paper-scissors
+# Rock-Paper-Scissors Game 🎮
 
 A fun Rock-Paper-Scissors game built using HTML, CSS, and JavaScript! Play against the computer and test your luck. ✂️📜🪨
 
